@@ -1,0 +1,8 @@
+{
+  "from": "coder2",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save tests/test_exp3p.py: [Errno 2] No such file or directory: 'artifacts/projects/SoftInducementSteeringFramework/tests/test_exp3p.py'",
+  "details": {},
+  "timestamp": "2025-09-03T20:46:44.701520"
+}
